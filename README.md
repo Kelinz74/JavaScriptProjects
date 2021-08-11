@@ -9,11 +9,8 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 ### [Basic JavaScript Projects Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Project1_expressions_alert) 
 
 - Utilized the window.alert() and document.write() methods 
-
 - Assigned a string value to two variables and concatenated the variables together 
-
 - Assigned a color to at least on variable using the fontcolor method 
-
 - Wrote an expression, and commented throughout the JavaScript file 
 
   
@@ -21,9 +18,7 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 ### [Project2_Functions Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Project2_functions) 
 
 - Write a function that uses the += operator 
-
 - Created an HTML element to call and display the function from the .JS file 
-
 - commented throughout the JS and HTML file for easy reference as to how the code works 
 
 
