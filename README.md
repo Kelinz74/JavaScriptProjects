@@ -37,3 +37,9 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 - Wrote a dictionary with a function that outputs a key-value pair into an HTML element
 -  Wrote a delete statement that removes the key before its value is displayed
 -  Added comments throughout the JS and HTML files explaining the code.
+
+### [Project5_Comparisons_Type_Coercion Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Project5_comparisons_type_coercion)
+- Utilize the document.write() method and typeof operator to display the data type of a variable.
+- Wrote an expression combining a string and a number.
+- Wrote code utilizing the following operators: ==, ===, >, <, &&, ||, ! and display them in the browser.
+- Added comments throughout your JavaScript explaining your code.
