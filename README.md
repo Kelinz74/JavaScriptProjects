@@ -32,3 +32,8 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 - Wrote a function utilizing Math.random().
 - Created HTML elements and event handlers for each JavaScript function.
 - Added comments throughout the JavaScript and HTML file explaining the code.
+
+### [Project4 Dictionaries Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Project4_Dictionaries)
+- Wrote a dictionary with a function that outputs a key-value pair into an HTML element
+-  Wrote a delete statement that removes the key before its value is displayed
+-  Added comments throughout the JS and HTML files explaining the code.
