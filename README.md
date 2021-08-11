@@ -6,7 +6,7 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 
 # Projects 
 
-### [Basic JavaScript Projects Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects) 
+### [Basic JavaScript Projects Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Project1_expressions_alert) 
 
 - Utilized the window.alert() and document.write() methods 
 
