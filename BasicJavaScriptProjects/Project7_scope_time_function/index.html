@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local and Global Varible</title>
+    <script src="JS/main.js"></script>
+</head>
+<body>
+<!-- a button to display a function utilizing a global variable -->
+    <button onclick="Avenger()">Click Here</button>
+    <p id="Doctor_Strang"></p>
+
+<!-- a button to display a function utilizing a local variable -->
+    <button onclick="Avenger2()">Click Here</button>
+    <p id="Hulk"></p>
+
+<!-- a click/text displaying in the console a deliberate error for a variable not being defined -->
+    <p onclick="Iron_man()">Click</p>
+
+<!-- a click/text that displays a message if the time is less the 18 o'clock -->
+    <p id="Greeting" onclick="get_Date()">Click Here.</p>
+
+<!-- a click/text that displays a message if an if statement condition is met, a else statement will
+    display if not -->
+    <p>Is it Peters Birthday?</p>
+    <p id="Happy_Birthday" onclick="Birthday()">Click Here</p>
+
+<!-- a input element for text that a person will input thier favorite super hero name -->
+    <p>Who is your favorite Marvel Superhero?</p>
+    <input id="hero" placeholder="Super Hero" value="" />
+    <p id="correct_answer_or_not"></p>
+    <button onclick="Superhero()">click here</button><br><br>
+
+<!-- a button to show the time of day in "Morning, afternoon or evening time" reference -->
+    <button onclick="Time_Function()">Click here to get the time.</button>
+    <p id="Time_of_day"></p>
+
+</body>
+</html>
