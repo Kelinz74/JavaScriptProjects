@@ -46,3 +46,9 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 - Created a function to display the results of the constructor function within an HTML element.  
 - Wrote a nested function. 
 - Added comments throughout the .JS and .HTML files to explain what the code does.
+
+### [Project7_Scope_Time_Function Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Project7_scope_time_function)
+- Assigned a local and global variables. 
+- Wrote a function that includes an if statement. 
+- Intentionally wrote a function with an error in it and used the consol.log() method to debug it within the console in the Chrome Dev Tools. 
+- Was provided a function two add to the JS and HTML file that will display the time of day by Morning, Afternoon or evening reference.
