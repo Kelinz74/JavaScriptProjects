@@ -59,6 +59,6 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 - Commented throughout the HTML and JS files to explain what the code does.
 
 ### [Project9_Countdown_Slideshow Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Project9_countdown_slideshow)
-- Created a countdown() function to show a countdown time in an HTML file.
+- Created a countdown() function to show a countdown timer (counts down by seconds) in an HTML file.
 - Created a basic slideshow using HTML, CSS, and JavaScript.
 - Added comments throughout the HTML, CSS and JS file to explain the code.
