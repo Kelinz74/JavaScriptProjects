@@ -1,6 +1,8 @@
+//funtion pull input from the input element HTML.
 function countdown() {
     var seconds = document.getElementById("seconds").value;
-
+//A function taking the inputed number to count down to 0 and give an pop up alert that the time is up
+//after the 0 is displayed
     function tick() {
         seconds = seconds -1;
         timer.innerHTML = seconds;
@@ -27,7 +29,10 @@ function currentSlide(n) {
     showSlides(slideIndex = n);
 }
 
-
+// A function that adjusts the display of what slide the slide show is on (1/3 ect..) and to match the dot
+// with the slide (slide 1/dot 1 ect...) The code will know by creating a list of the images and what 
+//indices each image is on (first image: index 0, second image: index 2) then starting back at image and 
+//dot 1 when clicking through image 3
 function showSlides(n) {
     var i;
     var slides = document.getElementsByClassName("mySlides");
