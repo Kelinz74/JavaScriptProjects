@@ -52,3 +52,8 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 - Wrote a function that includes an if statement. 
 - Intentionally wrote a function with an error in it and used the consol.log() method to debug it within the console in the Chrome Dev Tools. 
 - Was provided a function two add to the JS and HTML file that will display the time of day by Morning, Afternoon or evening reference.
+
+### [Project8_String_Methods Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Project8_string_methods)
+- Wrote functions to utilize each of the following methods: concat(), slice(), soString(), toPrecision().
+- Wrote any HTML elements needed to call and display the functions.
+- Commented throughout the HTML and JS files to explain what the code does.
