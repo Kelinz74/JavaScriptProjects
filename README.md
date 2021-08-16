@@ -62,3 +62,11 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 - Created a countdown() function to show a countdown timer (counts down by seconds) in an HTML file.
 - Created a basic slideshow using HTML, CSS, and JavaScript.
 - Added comments throughout the HTML, CSS and JS file to explain the code.
+
+### [Project 10 Loops Arrays Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Project10_loops_arrays)
+- Wrote a function that utilizes a while loop. 
+- Wrote a function that utilizes a for loop. 
+- Wrote a function that utilizes an array. 
+- Created an object using the "let" keyword. 
+- Wrote HTML elements for  each JS function to be called and displayed from the JavaScript code.
+- Commented throughout the HTML and JS file to explain how the code works.
