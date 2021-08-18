@@ -70,3 +70,7 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 - Created an object using the "let" keyword. 
 - Wrote HTML elements for  each JS function to be called and displayed from the JavaScript code.
 - Commented throughout the HTML and JS file to explain how the code works.
+
+### [Tic Tac Toe Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/TicTacToe)
+- Added a Fully functional Tic Tac Toe application. 
+- Commented throughout the HTML, CSS and HTML code on how it works.
