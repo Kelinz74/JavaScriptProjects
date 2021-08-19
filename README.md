@@ -78,3 +78,7 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 ### [Calculator Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/calculator)
 - Created a fully functional calculator application.
 - Added comments throughout the HTML, CSS and JavaScript file to explain how the code works.
+
+### [Pizza Menu Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Pizza_Project)
+- Submitted a fully functional pizza app.
+- Added comments through the HTML, CSS and JavaScript files explaining the code.
