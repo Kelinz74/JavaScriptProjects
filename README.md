@@ -75,6 +75,6 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 - Added a Fully functional Tic Tac Toe application. 
 - Commented throughout the HTML, CSS and HTML code on how it works.
 
-###[Calculator Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/calculator)
+### [Calculator Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/calculator)
 - Created a fully functional calculator application.
 - Added comments throughout the HTML, CSS and JavaScript file to explain how the code works.
