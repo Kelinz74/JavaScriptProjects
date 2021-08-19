@@ -1,0 +1,78 @@
+
+/*first div sizing*/
+#menuBG {
+    width: 400px;
+    height: 470px;
+    margin: 10px auto;
+}
+/*form sizing*/
+#frmMenu {
+    width: 600px;
+    height: 200px;
+}
+/*div containing the total price*/
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 20px auto;
+    float: right;
+}
+/*pizza size menu placement*/
+.left {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+/*vegetable menu placement*/
+.center {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+/*Meat menu placement*/
+.right {
+    width: 200px;
+    height: 200px;
+    float: right;    
+}
+/*Div for displaying the text for receipt*/
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+/*Div containing text and total price*/
+#cart {
+    top: 0;margin: 0px auto;
+    width: 400px;
+    height: 200px;    
+}
+/*button for placing the order, initializing Javascript*/
+#btnOrder {
+    margin: 10px 0px 0px 100px;
+    width: 100px;
+    height: 40px;
+    display: block;
+    margin: 25px auto;
+}
+/*body background color*/
+body {
+    background-color: rgb(207, 216, 79);
+}
+/*h1 styling*/
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(240, 9, 39);
+    text-align: center;
+}
+/*h3 styling*/
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(17, 15, 179);
+}
+/*div styyling*/
+div {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: firebrick;
+}
