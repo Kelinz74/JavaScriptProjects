@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Peter Smith">
+    <meta name="description" content="A basic HTML, CSS and JavaScript Calculator">
+    <title>Calculator</title>
+    <script src="./JS/Calculator_JavaScript.js" defer></script> 
+    <link rel="stylesheet" href="./CSS/Calculator_CSS.css">
+</head>
+
+<body>
+    <!-- outer containter for the calculator -->
+    <div class="calculator">
+
+        <!-- display to show numbers and results of computations -->
+        <input type="text" class="calculator-screen" value="0" disabled />
+        
+        <!-- container for buttons of the calculator -->
+        <div class="calculator-keys">
+
+            <!-- buttons displaying the operators +, -, * and / -->
+            <button type="button" class="operator" value="+">+</button>
+            <button type="button" class="operator" value="-">-</button>
+            <button type="button" class="operator" value="*">&times;</button>
+            <button type="button" class="operator" value="/">&divide;</button>
+
+            <!-- buttons displaying the number 7, 8, 9 -->
+            <button type="button" value="7">7</button>
+            <button type="button" value="8">8</button>
+            <button type="button" value="9">9</button>
+
+            <!-- buttons displaying the number 4, 5, 6 -->
+            <button type="button" value="4">4</button>
+            <button type="button" value="5">5</button>
+            <button type="button" value="6">6</button>
+
+            <!-- buttons displaying the number 1, 2, 3-->
+            <button type="button" value="1">1</button>
+            <button type="button" value="2">2</button>
+            <button type="button" value="3">3</button>
+
+            <!-- button displaying the number 0 -->
+            <button type="button" value="0">0</button>
+
+            <!-- buttons displaing the decimal point (.), AC (all-clear), and = -->
+            <button type="button" class="decimal function" value=".">.</button>
+            <button type="button" class="all-clear function" value="all-clear">AC</button>
+            <button type="button" class="equal-sign operator" value="=">=</button>
+        <!-- end display and buttons -->
+        </div>
+    <!-- end containter -->
+    </div>
+       
+</body>
+</html>
