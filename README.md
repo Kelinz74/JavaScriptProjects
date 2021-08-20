@@ -83,6 +83,6 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 - Submitted a fully functional pizza app.
 - Added comments through the HTML, CSS and JavaScript files explaining the code.
 
-### [Ajax Submission Assignment]()
+### [Ajax Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/AJAX)
 - Added the Ajax Assignment utilizing the XAMPP server for pulling information from one HTML file to another to demonstrate quicker loading purposes.
 - Added comments throughout the HTML file explainging the code.
