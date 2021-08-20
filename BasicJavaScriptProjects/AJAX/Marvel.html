@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marvel</title>
+</head>
+<body>
+    <div class="main">
+        <h2>Greatest Marvel Superhero:</h2>
+        <div class="content" id="content">
+            <input type="button" class="button" value="Who?" id="btn_content" onclick="getContent();"/>
+        </div>
+    <script>
+        var marvel = new XMLHttpRequest();
+
+        marvel.open("GET", "Marvel_Data.html");
+
+        marvel.onreadystatechange = function() {
+            if (marvel.readyState = 4) {
+                document.getElementById("content").innerHTML = marvel.responseText;
+            }
+        }
+
+        function getContent() {
+            marvel.send();
+            document.getElementById("btn_content").style.display = "none";
+        }
+
+
+    </script>
+    </div>
+</body>
+</html>
