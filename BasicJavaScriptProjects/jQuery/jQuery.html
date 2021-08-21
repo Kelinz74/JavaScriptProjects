@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Assignment</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <!-- Start of jQuery -->
+    <script>
+        //start of jQuery when HTML document is ready
+        $(document).ready(function(){
+            //appending HTML text to the HTML document from script
+            $("html").append(
+                "<body>\
+                    <div id='container'>\
+                        <div id='inner'>\
+                            <h1>Basic jQuery</h1>\
+                            <p id='1'>Paragraph 1</p>\
+                            <p id='2'>Paragraph 2</p>\
+                            <p id='3'>Paragraph 3</p>\
+                        </div>\
+                    </div>\
+                </body>"
+            );
+            //addeded css color property to paragraph 2 = red
+            $("#2").css({"color":"red"});
+            //a jQuery function that when clicking paragraph 3 will make the h1 element disappear
+            $("#3").click(function() {
+                $('h1').hide();
+            })
+        })
+    </script>
+</body>
+</html>
