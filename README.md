@@ -90,3 +90,8 @@ This repository will contain JavaScript projects I complete from The Teck Academ
 ### [jQuery Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/jQuery)
 - Added an HTML file with jQuery script.  
 - Added comments throughout HTML file explaining the code and how it works.
+
+### [Bootstrap Submission Assignment](https://github.com/Kelinz74/JavaScriptProjects/tree/main/BasicJavaScriptProjects/Bootstrap4Project)
+- Added a new sign up area for creating a rewards account with a pop up form for submitting your information.  
+- Added a new slideshow bootstrap element that displays upcoming movies.  
+- There are comments throughout the Bootstrap HTML file describing what each section is comparing the code and the web page.
